@@ -1,0 +1,41 @@
+{
+	"name": "tree-sitter-shdl",
+	"version": "1.0.0",
+	"description": "Tree sitter package for parsing sHDL files.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BEN1JEN/tree-sitter-shdl.git"
+	},
+	"keywords": [
+		"simple",
+		"hardware",
+		"description",
+		"language",
+		"hdl",
+		"shdl",
+		"chp",
+		"language",
+		"grammar",
+		"syntax",
+		"tree-sitter",
+		"tree",
+		"sitter",
+		"benonejenpackage"
+	],
+	"author": "BEN1JEN",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/BEN1JEN/tree-sitter-shdl/issues"
+	},
+	"homepage": "https://github.com/BEN1JEN/tree-sitter-shdl#readme",
+	"dependencies": {
+		"nan": "^2.14.0"
+	},
+	"devDependencies": {
+		"tree-sitter-cli": "^0.15.3"
+	}
+}

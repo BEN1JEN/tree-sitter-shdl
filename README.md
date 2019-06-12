@@ -1,2 +1,2 @@
 # Tree-sitter sHDL
-A tree-sitter pakage for parsing sHDL files.
+A tree-sitter package for parsing sHDL files.
